@@ -1,23 +1,5 @@
 {
-  "name": "hexlet-js",
-  "version": "1.0.0",
-  "type": "module",
-  "description": "Мой первый проект на Хекслете",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Vitalii-Marsh/hexlet-js.git"
-  },
-  "author": "vitalii-marsh",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Vitalii-Marsh/hexlet-js/issues"
-  },
-  "homepage": "https://github.com/Vitalii-Marsh/hexlet-js#readme",
-  "dependencies": {
-    "lodash": "^4.17.21"
+  "devDependencies": {
+    "prettier": "^3.2.5"
   }
 }
