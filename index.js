@@ -1,5 +1,5 @@
-import _ from "lodash";
+import testFunction from './src/index.js';
 
-console.log("Hello, Hexlet!");
+testFunction();
 
-console.log(_.last(["one", "two"]));
+export default testFunction;
